@@ -20,30 +20,30 @@
 10. 完全国际化，根据系统语言自动切换中文或者英文。
 
 ## 概览
-1. 轻击记录
+1. 轻击记录 
 ![Homepage](./png/homepage.png "Homepage")
-2. 胸有成竹
+2. 胸有成竹 
 ![Schedule](./png/schedule.png "Schedule")
-3. 一目了然
+3. 一目了然 
 ![Wallet](./png/wallet.png "Wallet")
-4. 定制随心
+4. 定制随心 
 ![Me](./png/me.png "Me")
 
 ## 使用方式
-1. 创建一个待做事项
+1. 创建一个待做事项 
 ![ScheduleEvent](./gif/ScheduleEvent.gif "ScheduleEvent")
-2. 创建一个收入事件
+2. 创建一个收入事件 
 ![WalletIncome](./gif/WalletIncome.gif "WalletIncome")
-3. 创建一个支出事件
+3. 创建一个支出事件 
 ![WalletCost](./gif/WalletCost.gif "WalletCost")
-4. 创建一个转账事件
+4. 创建一个转账事件 
 ![WalletTransfer](./gif/WalletTransfer.gif "WalletTransfer")
 
 ## 捐赠
 #### 如果觉得《速记》帮助到了您，并希望支持《速记》的后续开发和维护，那么您可以扫下面的二维码，请开发者喝杯矿泉水或者咖啡，感谢！
-1. 支付宝
+1. 支付宝 
 ![Alipay](./png/alipay.png "Alipay")
-2. 微信  
+2. 微信 
 ![WeChat](./png/wechat.png "WeChat")
 
 ## 最后
