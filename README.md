@@ -4,8 +4,9 @@
 1. [亮点](#亮点)
 2. [概览](#概览)
 3. [使用方式](#使用方式)
-4. [捐赠](#捐赠)
-5. [最后](#最后)
+4. [下载](#下载)
+5. [捐赠](#捐赠)
+6. [最后](#最后)
 
 ## 亮点：
 1. 个人开发者开发，[Normal版本](./apk/QuickNotesNormal.apk)不需要任何Android权限，[Premium版本](./apk/QuickNotesPremium.apk)需要设置闹钟权限（事件提醒）以及存储卡权限（备份和恢复数据）。
@@ -38,6 +39,11 @@
 ![WalletCost](./gif/WalletCost.gif "WalletCost")
 4. 创建一个转账事件  
 ![WalletTransfer](./gif/WalletTransfer.gif "WalletTransfer")
+
+## 下载
+1. [Normal版本](./apk/QuickNotesNormal.apk)，右键下载，无需任何 Android 权限。
+2. [Premium版本](./apk/QuickNotesPremium.apk)，右键下载，需要设置闹钟、读写存储卡权限。
+#### （两个版本可以覆盖安装）
 
 ## 捐赠
 #### 如果觉得《速记》帮助到了您，并希望支持《速记》的后续开发和维护，那么您可以扫下面的二维码，请开发者喝杯矿泉水或者咖啡，感谢！
