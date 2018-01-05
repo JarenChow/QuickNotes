@@ -40,10 +40,10 @@
 ![WalletTransfer](./gif/WalletTransfer.gif "WalletTransfer")
 
 ## 捐赠
-#### 如果觉得《速记》帮助到了您，并希望支持《速记》的后续开发和维护，那么您可以扫下面的二维码，请我喝杯矿泉水或者咖啡，感谢！
+#### 如果觉得《速记》帮助到了您，并希望支持《速记》的后续开发和维护，那么您可以扫下面的二维码，请开发者喝杯矿泉水或者咖啡，感谢！
 1. 支付宝
 ![Alipay](./png/alipay.png "Alipay")
-2. 微信
+2. 微信  
 ![WeChat](./png/wechat.png "WeChat")
 
 ## 最后
