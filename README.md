@@ -43,7 +43,7 @@
 ## 下载
 1. [Lite版本](./apk/QuickNotesLite.apk)，右键下载，无需任何 Android 权限。
 2. [Premium版本](./apk/QuickNotesPremium.apk)，右键下载，需要设置闹钟、读写存储卡权限。
-#### （两个版本可以覆盖安装）
+#### （两个版本可以覆盖安装，覆盖安装前先备份数据）
 
 ## 版本更新
 ### Version 1.1 新增一个新功能，菜单栏新增《记录一个想法》
