@@ -9,7 +9,7 @@
 6. [最后](#最后)
 
 ## 亮点：
-1. 个人开发者开发，[Lite版本](./apk/QuickNotesLite.apk)不需要任何Android权限，[Premium版本](./apk/QuickNotesPremium.apk)需要设置闹钟权限（事件提醒）以及存储卡权限（备份和恢复数据）。
+1. 个人开发者开发，[Lite版本](./raw/master/apk/QuickNotesLite.apk)不需要任何Android权限，[Premium版本](./raw/master/apk/QuickNotesPremium.apk)需要设置闹钟权限（事件提醒）以及存储卡权限（备份和恢复数据）。
 2. 无启动页、无广告。
 3. 单一进程，无任何后台驻留服务，不接收任何广播自动唤醒，用完即走。
 4. 后台采用Android系统SQLite数据库存储，前台界面参考微信的设计，一目了然。
@@ -41,8 +41,8 @@
 ![WalletTransfer](./gif/WalletTransfer.gif "WalletTransfer")
 
 ## 下载
-1. [Lite版本](./apk/QuickNotesLite.apk)，右键下载，无需任何 Android 权限。
-2. [Premium版本](./apk/QuickNotesPremium.apk)，右键下载，需要设置闹钟、读写存储卡权限。
+1. [Lite版本](./raw/master/apk/QuickNotesLite.apk)，右键下载，无需任何 Android 权限。
+2. [Premium版本](./raw/master/apk/QuickNotesPremium.apk)，右键下载，需要设置闹钟、读写存储卡权限。
 #### （两个版本可以覆盖安装）
 
 ## 版本更新
@@ -60,5 +60,5 @@
 ### Version 1.0 大多数功能开发完毕
 
 ## 最后
-#### 如果觉得《速记》帮助到了您，并希望支持《速记》的后续开发和维护，那么可以给我一个Star（Star一下又不会怀孕）！
 #### 如果有任何问题或建议，请提交 Issues 或发邮件给 JarenChow@outlook.com，感谢！
+#### 如果觉得《速记》帮助到了您，那么可以给我一个Star（Star一下又不会怀孕）！
