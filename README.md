@@ -46,6 +46,10 @@
 #### （两个版本可以覆盖安装）
 
 ## 版本更新
+### Version 1.2.2
+* 删除了一行无用的数据库操作代码
+* 将所有数据库操作添加 close 操作
+* 调整 Premium 版本 Remind 图标的存在方式为 invisible，避免 gone 情况下复用 View 时出现的时间文字被顶出界面的 Bug。
 ### Version 1.2.1
 * 修正编辑较长事件时，EditText 将 AlertDialog 的按钮布局顶出界面的Bug
 * 替换时间编辑控件 EditText 为更友好的 NumberPicker
